@@ -1,0 +1,20 @@
+{
+    "name": "todo_app",
+    "version": "1.0.0",
+    "description": "",
+    "scripts": {
+        "build": "npm run build",
+        "test": "echo \"No test specified\" && exit 1",
+        "start": "npm start"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ghouri0/todo_app.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/ghouri0/todo_app/issues"
+    },
+    "homepage": "https://github.com/ghouri0/todo_app#readme"
+}
